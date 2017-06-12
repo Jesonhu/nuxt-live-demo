@@ -1,0 +1,424 @@
+{
+  "errno": 0,
+  "bannerList": [
+    {
+      "link": "",
+      "picUrl": "/img/list/banner/01.jpg"
+    },
+    {
+      "link": "",
+      "picUrl": "/img/list/banner/02.jpg"
+    }
+  ],
+  "sort": [
+    {
+      "link": "javascript:;",
+      "dataReactId": "00",
+      "name": "全部"
+    },
+    {
+      "link": "javascript:;",
+      "dataReactId": "01",
+      "name": "夏凉"
+    },
+    {
+      "link": "javascript:;",
+      "dataReactId": "02",
+      "name": "被枕"
+    },
+    {
+      "link": "javascript:;",
+      "dataReactId": "03",
+      "name": "床品件套"
+    },
+    {
+      "link": "javascript:;",
+      "dataReactId": "04",
+      "name": "布艺软装"
+    },
+    {
+      "link": "javascript:;",
+      "dataReactId": "05",
+      "name": "家具"
+    },
+    {
+      "link": "javascript:;",
+      "dataReactId": "06",
+      "name": "灯具"
+    },
+    {
+      "link": "javascript:;",
+      "dataReactId": "07",
+      "name": "家饰"
+    },
+    {
+      "link": "javascript:;",
+      "dataReactId": "08",
+      "name": "宠物"
+    },
+    {
+      "link": "javascript:;",
+      "dataReactId": "09",
+      "name": "夏凉"
+    }
+  ],
+  "filter": [
+    {
+      "link": "javascript:;",
+      "dataReactId": "00",
+      "name": "默认"
+    },
+    {
+      "link": "javascript:;",
+      "dataReactId": "00",
+      "name": "价格"
+    },
+    {
+      "link": "javascript:;",
+      "dataReactId": "00",
+      "name": "上架时间"
+    }
+  ],
+  "goods": [
+    {
+      "hasTitle": true,
+      "name": "夏凉",
+      "picUrl": "/img/list/xl/tit.png",
+      "desc": "夏凉床品，舒适一夏",
+      "conList": [
+        {
+          "link": "",
+          "picUrl": "/img/list/xl/01.png",
+          "color": "3色可选",
+          "flag": [
+            {
+              "name": "爆品",
+              "bgColor": "#F28F2D"
+            }
+          ],
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/xl/02.png",
+          "color": "3色可选",
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/xl/03.png",
+          "color": "3色可选",
+          "flag": [
+            {
+              "name": "限时购",
+              "bgColor": "#d44646"
+            }
+          ],
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/xl/04.png",
+          "color": "3色可选",
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/xl/05.png",
+          "color": "3色可选",
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/xl/06.png",
+          "color": "3色可选",
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/xl/07.png",
+          "color": "3色可选",
+          "flag": [
+            {
+              "name": "爆品",
+              "bgColor": "#F28F2D"
+            }
+          ],
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/xl/08.png",
+          "color": "3色可选",
+          "flag": [
+            {
+              "name": "爆品",
+              "bgColor": "#F28F2D"
+            }
+          ],
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        }
+      ]
+    },
+    {
+      "hasTitle": true,
+      "name": "被枕",
+      "picUrl": "/img/list/bz/tit.png",
+      "desc": "守护你的睡眠时光",
+      "conList": [
+        {
+          "link": "",
+          "picUrl": "/img/list/bz/01.png",
+          "color": "3色可选",
+          "flag": [
+            {
+              "name": "爆品",
+              "bgColor": "#F28F2D"
+            }
+          ],
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/bz/02.png",
+          "color": "3色可选",
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/bz/03.png",
+          "color": "3色可选",
+          "flag": [
+            {
+              "name": "限时购",
+              "bgColor": "#d44646"
+            }
+          ],
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/bz/04.png",
+          "color": "3色可选",
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/bz/05.png",
+          "color": "3色可选",
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        }
+      ]
+    },
+    {
+      "hasTitle": true,
+      "name": "床品件套",
+      "picUrl": "/img/list/cpjt/tit.png",
+      "desc": "MUJI等品牌制造商出品",
+      "conList": [
+        {
+          "link": "",
+          "picUrl": "/img/list/cpjt/01.png",
+          "color": "3色可选",
+          "flag": [
+            {
+              "name": "爆品",
+              "bgColor": "#F28F2D"
+            }
+          ],
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/cpjt/02.png",
+          "color": "3色可选",
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/cpjt/03.png",
+          "color": "3色可选",
+          "flag": [
+            {
+              "name": "限时购",
+              "bgColor": "#d44646"
+            }
+          ],
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/cpjt/04.png",
+          "color": "3色可选",
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/cpjt/05.png",
+          "color": "3色可选",
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        }
+      ]
+    },
+    {
+      "hasTitle": true,
+      "name": "布艺软装",
+      "picUrl": "/img/list/byrz/tit.png",
+      "desc": "各种风格软装装点你的家",
+      "conList": [
+        {
+          "link": "",
+          "picUrl": "/img/list/byrz/01.png",
+          "color": "3色可选",
+          "flag": [
+            {
+              "name": "爆品",
+              "bgColor": "#F28F2D"
+            }
+          ],
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        }
+      ]
+    },
+    {
+      "hasTitle": true,
+      "name": "家具",
+      "picUrl": "/img/list/jj/tit.png",
+      "desc": "大师级工艺",
+      "conList": [
+        {
+          "link": "",
+          "picUrl": "/img/list/jj/01.png",
+          "color": "3色可选",
+          "flag": [
+            {
+              "name": "爆品",
+              "bgColor": "#F28F2D"
+            }
+          ],
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        }
+      ]
+    },
+    {
+      "hasTitle": true,
+      "name": "灯具",
+      "picUrl": "/img/list/dj/tit.png",
+      "desc": "一盏灯，温暖一个家",
+      "conList": [
+        {
+          "link": "",
+          "picUrl": "/img/list/dj/01.png",
+          "color": "3色可选",
+          "flag": [
+            {
+              "name": "爆品",
+              "bgColor": "#F28F2D"
+            }
+          ],
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        }
+      ]
+    },
+    {
+      "hasTitle": true,
+      "name": "家饰",
+      "picUrl": "/img/list/js/tit.png",
+      "desc": "装饰你的家",
+      "conList": [
+        {
+          "link": "",
+          "picUrl": "/img/list/js/01.png",
+          "color": "3色可选",
+          "flag": [
+            {
+              "name": "爆品",
+              "bgColor": "#F28F2D"
+            }
+          ],
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        }
+      ]
+    },
+    {
+      "hasTitle": true,
+      "name": "宠物",
+      "picUrl": "/img/list/cw/tit.png",
+      "desc": "抑菌除味，打造宠物舒适空间",
+      "conList": [
+        {
+          "link": "",
+          "picUrl": "/img/list/cw/01.png",
+          "color": "3色可选",
+          "flag": [
+            {
+              "name": "爆品",
+              "bgColor": "#F28F2D"
+            }
+          ],
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/list/cw/02.png",
+          "color": "3色可选",
+          "flag": [
+            {
+              "name": "爆品",
+              "bgColor": "#F28F2D"
+            }
+          ],
+          "name": "纯棉水洗色织格夏凉被",
+          "price": "169",
+          "desc": "100%棉填充，透气排汗，双面可用"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "code": 200,
+  "result": {
+    "SearchWordsList": [
+      {
+        "text": "大家都在搜"
+      },
+      {
+        "text": "520礼券最后一天"
+      },
+      {
+        "text": "单鞋"
+      },
+      {
+        "text": "家具"
+      },
+      {
+        "text": "睡衣"
+      },
+      {
+        "text": "MUJI制造商"
+      }
+    ],
+    "navList": [
+      {
+        "textLink": "/",
+        "text": "首页"
+      },
+      {
+        "textLink": "",
+        "text": "居家",
+        "childNavList": [
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_jj.png",
+            "text": "夏凉"
+          },
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_jj.png",
+            "text": "被枕"
+          },
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_jj.png",
+            "text": "床品件套"
+          },
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_jj.png",
+            "text": "布艺软装"
+          },
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_jj.png",
+            "text": "家具"
+          },
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_jj.png",
+            "text": "灯具"
+          },
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_jj.png",
+            "text": "家饰"
+          },
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_jj.png",
+            "text": "宠物"
+          }
+        ]
+      },
+      {
+        "textLink": "",
+        "text": "餐厨",
+        "childNavList": [
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_cc.png",
+            "text": "锅具"
+          }
+        ]
+      },
+      {
+        "textLink": "",
+        "text": "配件",
+        "childNavList": [
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_cc.png",
+            "text": "锅具2"
+          }
+        ]
+      },
+      {
+        "textLink": "",
+        "text": "服装",
+        "childNavList": [
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_cc.png",
+            "text": "锅具3"
+          }
+        ]
+      },
+      {
+        "textLink": "",
+        "text": "洗护",
+        "childNavList": [
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_cc.png",
+            "text": "锅具4"
+          }
+        ]
+      },
+      {
+        "textLink": "",
+        "text": "婴童",
+        "childNavList": [
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_cc.png",
+            "text": "锅具5"
+          }
+        ]
+      },
+      {
+        "textLink": "",
+        "text": "杂货",
+        "childNavList": [
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_cc.png",
+            "text": "锅具6"
+          }
+        ]
+      },
+      {
+        "textLink": "",
+        "text": "饮食",
+        "childNavList": [
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_cc.png",
+            "text": "锅具7"
+          }
+        ]
+      },
+      {
+        "textLink": "",
+        "text": "志趣",
+        "childNavList": [
+          {
+            "Link": "",
+            "picUrl": "/img/item_list_cc.png",
+            "text": "锅具8"
+          }
+        ]
+      },
+      {
+        "textLink": "",
+        "text": "专题"
+      },
+      {
+        "textLink": "",
+        "text": "甄选家"
+      }
+    ],
+    "footerList": [
+      {
+        "link": "",
+        "text": "关于我们"
+      },
+      {
+        "link": "",
+        "text": "帮助中心"
+      },
+      {
+        "link": "",
+        "text": "售后服务"
+      },
+      {
+        "link": "",
+        "text": "配送与验收"
+      },
+      {
+        "link": "",
+        "text": "商务合作"
+      },
+      {
+        "link": "",
+        "text": "企业采购"
+      },
+      {
+        "link": "",
+        "text": "友情链接"
+      }
+    ]
+  }
+}

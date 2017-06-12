@@ -1,0 +1,429 @@
+{
+  "code": "200",
+  "result": {
+    "goodsDetail": {
+      "id": 1,
+      "gid": 1,
+      "list": 1,
+      "itemList": 3,
+      "viewPicUrl": "/img/detail/view01.jpg",
+      "sthumbs": [
+        {
+          "img": "/img/detail/detail_col_01.jpg"
+        },
+        {
+          "img": "/img/detail/detail_col_02.jpg"
+        },
+        {
+          "img": "/img/detail/detail_col_03.jpg"
+        },
+        {
+          "img": "/img/detail/detail_col_04.jpg"
+        },
+        {
+          "img": "/img/detail/detail_col_05.jpg"
+        }
+      ],
+      "name": "全棉针织纯色四件套",
+      "tagList": [
+        {
+          "href": "",
+          "name": "MUJI制造商"
+        }
+      ],
+      "desc": "日系纯色，面料轻柔舒透",
+      "commitNum": "1000",
+      "retailPrice": "299",
+      "saleList": [
+        {
+          "href": "",
+          "desc": "至爱臻品折上折，全场低至0元"
+        },
+        {
+          "href": "",
+          "desc": "520买满就送活动"
+        }
+      ],
+      "service": [
+        {
+          "desc": "30天无忧退货"
+        },
+        {
+          "desc": "48小时快速退款"
+        },
+        {
+          "desc": "满88元免邮费"
+        },
+        {
+          "desc": "网易自营品牌"
+        }
+      ],
+      "choseColor": [
+        {
+          "img": "/img/detail/detail_row_01.png",
+          "title": "烟草绿（床单款）"
+        },
+        {
+          "img": "/img/detail/detail_row_02.png",
+          "title": "烟草绿2（床单款）"
+        },
+        {
+          "img": "/img/detail/detail_row_03.png",
+          "title": "烟草绿3（床单款）"
+        },
+        {
+          "img": "/img/detail/detail_row_04.png",
+          "title": "烟草绿4（床单款）"
+        }
+      ],
+      "size": [
+        {
+          "name": "1.5M(床尺寸)"
+        },
+        {
+          "name": "1.8M(床尺寸)"
+        }
+      ],
+      "count": 1,
+      "goodsDetail": {
+        "ingredient": "100%纯棉",
+        "size": [
+          {
+            "text": "1.5米床品（床笠款）： 被套 200*230cm/ 枕套：48*74cm*2/ 床笠：150*200*28cm"
+          },
+          {
+            "text": "1.8米床品（床笠款）：被套 220*240cm/ 枕套：48*74cm*2/ 床笠：180*200*28cm"
+          }
+        ],
+        "standard": "GB/T22844-2009",
+        "color": [
+          {
+            "text": "烟草绿"
+          },
+          {
+            "text": "深茶褐"
+          },
+          {
+            "text": "丁子灰"
+          },
+          {
+            "text": "木兰黄"
+          },
+          {
+            "text": "茶香粉"
+          }
+        ],
+        "from": "中国江苏",
+        "picUrl": "/img/detail/detail01.jpg",
+        "report": {
+          "picUrl": "/img/detail/report01.jpg"
+        },
+        "question": [
+          {
+            "qs": "购买运费如何收取？",
+            "an": "单笔订单金额（不含运费）满88元免邮费；不满88元，每单收取10元运费。(港澳台地区需满500元免邮费；不满500元，每单收取30元运费)"
+          },
+          {
+            "qs": "使用什么快递发货？",
+            "an": "严选默认使用顺丰快递发货（个别商品使用其他快递），配送范围覆盖全国大部分地区（港澳台地区除外）。"
+          },
+          {
+            "qs": "如何申请退货？",
+            "an": "1.自收到商品之日起30日内，顾客可申请无忧退货，退款将原路返还，不同的银行处理时间不同，预计1-5个工作日到账；<br/>2.内裤和食品等特殊商品无质量问题不支持退货<br/>3.退货流程：确认收货-申请退货-客服审核通过-用户寄回商品-仓库签收验货-退款审核-退款完成；<br>4.因网易严选产生的退货，如质量问题，退货邮费由网易严选承担，退款完成后会以现金券的形式报销。因客户个人原因产生的退货，购买和寄回运费由客户个人承担。"
+          }
+        ]
+      },
+      "ratings": [
+        {
+          "skuInfo": [
+            "颜色:丁子灰（床笠款）",
+            "尺寸:1.8M"
+          ],
+          "frontUserName": "心****城",
+          "frontUserAvatar": "https://yanxuan.nosdn.127.net/56f3c503754db7b7b30b5d0d0ac75766.jpg",
+          "content": "嗯嗯，灰色被单颜值就是高，面料也非常不错，摸上去特别舒服，裸睡也好特别，今晚继续裸睡，好东西，以后再来",
+          "createTime": 1493221610634,
+          "hasPicList": false,
+          "picList": [],
+          "commentReplyVO": null,
+          "memberLevel": 1
+        },
+        {
+          "skuInfo": [
+            "颜色:烟草绿",
+            "尺寸:1.8M"
+          ],
+          "frontUserName": "偏****色",
+          "frontUserAvatar": "https://yanxuan.nosdn.127.net/1e7dd791d3ae63732f4395f7c71f71a2.jpg",
+          "content": "感觉挺不错的，虽然还没有用，也是第一次在网易严选上面买东西，但是体验感不错，会一直使用下去！",
+          "createTime": 1492008821772,
+          "hasPicList": true,
+          "picList": [
+            "https://yanxuan.nosdn.127.net/c1a8c46607135677c907b8431c7190f8.jpg"
+          ],
+          "commentReplyVO": null,
+          "memberLevel": 2
+        },
+        {
+          "skuInfo": [
+            "颜色:木兰黄",
+            "尺寸:1.5M"
+          ],
+          "frontUserName": "布****窝",
+          "frontUserAvatar": "https://yanxuan.nosdn.127.net/8c8a6698cec934ceb6e9c42300d798ef",
+          "content": "四件套很不错哦，盖在身上感觉被子都融化了，很舒服，很柔软，就是希望能仔出点好看的颜色",
+          "createTime": 1491871659387,
+          "hasPicList": true,
+          "picList": [
+            "https://yanxuan.nosdn.127.net/22fdf53d414dd47b86ce5cc35287c62a.jpg",
+            "https://yanxuan.nosdn.127.net/c1803b75d90a5ffa59683d1a5439b3f7.jpg"
+          ],
+          "commentReplyVO": null,
+          "memberLevel": 2
+        },
+        {
+          "skuInfo": [
+            "颜色:丁子灰（床笠款）",
+            "尺寸:1.5M"
+          ],
+          "frontUserName": "S****a",
+          "frontUserAvatar": "http://yanxuan.nosdn.127.net/69b9cd013576697af203059392d052c6",
+          "content": "都還沒有拆來用呢。準備搬新家置辦的東東。❤️",
+          "createTime": 1495122361023,
+          "hasPicList": true,
+          "picList": [
+            "https://yanxuan.nosdn.127.net/99f85aa14bb50da9239be5527d8954eb.jpg"
+          ],
+          "commentReplyVO": null,
+          "memberLevel": 2
+        },
+        {
+          "skuInfo": [
+            "颜色:丁子灰",
+            "尺寸:1.5M"
+          ],
+          "frontUserName": "g****8",
+          "frontUserAvatar": null,
+          "content": "特地等洗完了铺上睡了一晚才来评价，真的很舒服柔软，像棉毛裤是真的",
+          "createTime": 1491530475070,
+          "hasPicList": true,
+          "picList": [
+            "https://yanxuan.nosdn.127.net/d0baf01ed226573e073ba431457fb35a.jpg"
+          ],
+          "commentReplyVO": null,
+          "memberLevel": 1
+        },
+        {
+          "skuInfo": [
+            "颜色:丁子灰",
+            "尺寸:1.8M"
+          ],
+          "frontUserName": "H****m",
+          "frontUserAvatar": "https://yanxuan.nosdn.127.net/3d38d13a30edc43ea9f1dfd6308fb759.jpg",
+          "content": "就像精心挑选的礼物一样我都不舍得拆呢～哈哈等我使用的时候会第一时间追评喔～",
+          "createTime": 1491042135436,
+          "hasPicList": true,
+          "picList": [
+            "https://yanxuan.nosdn.127.net/54a9d2989549a612d0129a93a9a268ce.jpg"
+          ],
+          "commentReplyVO": null,
+          "memberLevel": 1
+        },
+        {
+          "skuInfo": [
+            "颜色:丁子灰",
+            "尺寸:1.8M"
+          ],
+          "frontUserName": "l****6",
+          "frontUserAvatar": null,
+          "content": "种草已久的针织棉终于拔草了，床笠款很实用，还没下水，洗过再来追评",
+          "createTime": 1489973305360,
+          "hasPicList": true,
+          "picList": [
+            "https://yanxuan.nosdn.127.net/546b6bc33cc8acc4f28371a421d83c0d.jpg"
+          ],
+          "commentReplyVO": null,
+          "memberLevel": 1
+        },
+        {
+          "skuInfo": [
+            "颜色:深茶褐（床笠款）",
+            "尺寸:1.5M"
+          ],
+          "frontUserName": "猫****机",
+          "frontUserAvatar": "https://yanxuan.nosdn.127.net/2f19953ff0778bf8f365cc322994fbf0.jpg",
+          "content": "还行，像棉裤的感觉，颜色喜欢也简约。没有床单，是床笠，学生宿舍的床，套到席子下，也牢固，对学生来说挺好。",
+          "createTime": 1493631835123,
+          "hasPicList": true,
+          "picList": [
+            "https://yanxuan.nosdn.127.net/6de22f6fb40675918bd8a0f819aff22e.jpg"
+          ],
+          "commentReplyVO": null,
+          "memberLevel": 1
+        },
+        {
+          "skuInfo": [
+            "颜色:丁子灰（床笠款）",
+            "尺寸:1.8M"
+          ],
+          "frontUserName": "易****森",
+          "frontUserAvatar": "https://yanxuan.nosdn.127.net/8fc42ae31296a298ce19556a94e0f9e8",
+          "content": "东西超级好，就是怕变形，感觉会变得宽松了，但是目前还没有，用一段时间看看，一直信赖网易严选的东西，爱你哟",
+          "createTime": 1493276779193,
+          "hasPicList": true,
+          "picList": [
+            "https://yanxuan.nosdn.127.net/0573003a07f47657de2d718dad037211.jpg",
+            "https://yanxuan.nosdn.127.net/b2bbb3d0652acaa1f2b0f7edc3bb74b3.jpg",
+            "https://yanxuan.nosdn.127.net/fe6619736ca3b938c19fab208b506601.jpg"
+          ],
+          "commentReplyVO": null,
+          "memberLevel": 2
+        },
+        {
+          "skuInfo": [
+            "颜色:茶香粉",
+            "尺寸:1.5M"
+          ],
+          "frontUserName": "是****呀",
+          "frontUserAvatar": "https://yanxuan.nosdn.127.net/c987ec4ab11264b61f1b0f4b409ce8a1.jpg",
+          "content": "看看我的所有拍照背景都是这个小！粉！床！你就知道我有多！爱！她！了！",
+          "createTime": 1490286703543,
+          "hasPicList": true,
+          "picList": [
+            "https://yanxuan.nosdn.127.net/348941ad509aa49948d51628a7efb2c9.jpg",
+            "https://yanxuan.nosdn.127.net/884b2aa004a51d82681ecca0ca577525.jpg",
+            "https://yanxuan.nosdn.127.net/5a37b89b9de1093d8773e29c0b9798d0.jpg",
+            "https://yanxuan.nosdn.127.net/50825981fec2a3e62d5147fd076ed7a6.jpg"
+          ],
+          "commentReplyVO": null,
+          "memberLevel": 2
+        }
+      ]
+    },
+    "sameList": [
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "日式色织水洗棉格纹四件套 新款",
+        "price": 299
+      },
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "2日式色织水洗",
+        "price": 299
+      },
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "3日式色织水洗",
+        "price": 299
+      },
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "4日式色织水洗",
+        "price": 299
+      },
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "21日式色织水洗棉格纹四件套 新款",
+        "price": 299
+      },
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "22日式色织水洗",
+        "price": 299
+      },
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "23日式色织水洗",
+        "price": 299
+      },
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "24日式色织水洗",
+        "price": 299
+      }
+    ],
+    "hotSale": [
+      {
+        "link": "",
+        "color": "7色可选",
+        "picUrl": "/img/detail/hotsale01.png",
+        "name": "新疆阿瓦提长绒棉弱捻超柔毛巾",
+        "price": 12
+      },
+      {
+        "link": "",
+        "picUrl": "/img/detail/hotsale01.png",
+        "name": "新疆阿瓦提长绒棉弱捻超柔毛巾",
+        "price": 12
+      },
+      {
+        "link": "",
+        "color": "7色可选",
+        "picUrl": "/img/detail/hotsale01.png",
+        "name": "新疆阿瓦提长绒棉弱捻超柔毛巾",
+        "price": 12
+      },
+      {
+        "link": "",
+        "picUrl": "/img/detail/hotsale01.png",
+        "name": "新疆阿瓦提长绒棉弱捻超柔毛巾",
+        "price": 12
+      },
+      {
+        "link": "",
+        "picUrl": "/img/detail/hotsale01.png",
+        "name": "新疆阿瓦提长绒棉弱捻超柔毛巾",
+        "price": 12
+      },
+      {
+        "link": "",
+        "picUrl": "/img/detail/hotsale01.png",
+        "name": "新疆阿瓦提长绒棉弱捻超柔毛巾",
+        "price": 12
+      }
+    ],
+    "topicsRecommended": [
+      {
+        "link": "",
+        "picUrl": "/img/detail/topic01.jpg",
+        "name": "要精致生活，就要讲究浴室"
+      },
+      {
+        "link": "",
+        "picUrl": "/img/detail/topic01.jpg",
+        "name": "要精致生活"
+      },
+      {
+        "link": "",
+        "picUrl": "/img/detail/topic01.jpg",
+        "name": "要精致生活，就要讲究浴室"
+      },
+      {
+        "link": "",
+        "picUrl": "/img/detail/topic01.jpg",
+        "name": "要精致生活"
+      },
+      {
+        "link": "",
+        "picUrl": "/img/detail/topic01.jpg",
+        "name": "要精致生活，就要讲究浴室"
+      }
+    ]
+  }
+}

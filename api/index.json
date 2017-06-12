@@ -1,0 +1,634 @@
+{
+  "code": 200,
+  "result": {
+    "bannerList": [
+      {
+        "link": "",
+        "picUrl": "/img/banner01.jpg"
+      },
+      {
+        "link": "",
+        "picUrl": "/img/banner02.jpg"
+      },
+      {
+        "link": "",
+        "picUrl": "/img/banner03.jpg"
+      },
+      {
+        "link": "",
+        "picUrl": "/img/banner04.jpg"
+      },
+      {
+        "link": "",
+        "picUrl": "/img/banner05.jpg"
+      }
+    ],
+    "ppzzs": {
+      "hdTitle": "品牌制造商",
+      "titleDesc": "工厂直达消费者，剔除品牌溢价",
+      "menuList": [
+        {
+          "link": "",
+          "picUrl": "/img/index_ppzzs/01.jpg",
+          "title": "MUJI制造商",
+          "titleDesc": "12.9元起"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/index_ppzzs/02.jpg",
+          "title": "MUJI制造商",
+          "titleDesc": "12.9元起"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/index_ppzzs/03.jpg",
+          "title": "MUJI制造商",
+          "titleDesc": "12.9元起",
+          "flag": "上新"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/index_ppzzs/04.jpg",
+          "title": "MUJI制造商",
+          "titleDesc": "12.9元起"
+        }
+      ]
+    },
+    "xpsf": {
+      "hdTitle": "新品首发",
+      "titleDesc": "周一周四上新，为你寻觅世间好物",
+      "menuList": [
+        {
+          "link": "1",
+          "picUrlList": [
+            {
+              "picUrl": "/img/index_xpsf/01.png"
+            },
+            {
+              "picUrl": "/img/index_xpsf/01_01.jpg"
+            }
+          ],
+          "title": "男式飞织运动休闲鞋",
+          "price": "199",
+          "desc": "CK制造商",
+          "color": "2色可选"
+        },
+        {
+          "link": "2",
+          "picUrlList": [
+            {
+              "picUrl": "/img/index_xpsf/01.png"
+            },
+            {
+              "picUrl": "/img/index_xpsf/01_01.jpg"
+            }
+          ],
+          "title": "22男式飞织运动休闲鞋",
+          "price": "199",
+          "desc": "CK制造商",
+          "flag": "520人气款"
+        },
+        {
+          "link": "3",
+          "picUrlList": [
+            {
+              "picUrl": "/img/index_xpsf/01.png"
+            },
+            {
+              "picUrl": "/img/index_xpsf/01_01.jpg"
+            }
+          ],
+          "title": "33男式飞织运动休闲鞋",
+          "price": "199",
+          "desc": "CK制造商",
+          "flag": "520人气款"
+        },
+        {
+          "link": "4",
+          "picUrlList": [
+            {
+              "picUrl": "/img/index_xpsf/01.png"
+            },
+            {
+              "picUrl": "/img/index_xpsf/01_01.jpg"
+            }
+          ],
+          "title": "44男式飞织运动休闲鞋",
+          "price": "199",
+          "desc": "CK制造商"
+        },
+        {
+          "link": "5",
+          "picUrlList": [
+            {
+              "picUrl": "/img/index_xpsf/01.png"
+            },
+            {
+              "picUrl": "/img/index_xpsf/01_01.jpg"
+            }
+          ],
+          "title": "55男式飞织运动休闲鞋",
+          "price": "199",
+          "desc": "CK制造商"
+        },
+        {
+          "link": "6",
+          "picUrlList": [
+            {
+              "picUrl": "/img/index_xpsf/01.png"
+            },
+            {
+              "picUrl": "/img/index_xpsf/01_01.jpg"
+            }
+          ],
+          "title": "66男式飞织运动休闲鞋",
+          "price": "199",
+          "desc": "CK制造商",
+          "flag": "520人气款"
+        },
+        {
+          "link": "7",
+          "picUrlList": [
+            {
+              "picUrl": "/img/index_xpsf/01.png"
+            },
+            {
+              "picUrl": "/img/index_xpsf/01_01.jpg"
+            }
+          ],
+          "title": "77男式飞织运动休闲鞋",
+          "price": "199",
+          "desc": "CK制造商",
+          "flag": "520人气款"
+        },
+        {
+          "link": "8",
+          "picUrlList": [
+            {
+              "picUrl": "/img/index_xpsf/01.png"
+            },
+            {
+              "picUrl": "/img/index_xpsf/01_01.jpg"
+            }
+          ],
+          "title": "88男式飞织运动休闲鞋",
+          "price": "199",
+          "desc": "CK制造商"
+        },
+        {
+          "link": "",
+          "picUrlList": [
+            {
+              "picUrl": "/img/index_xpsf/01.png"
+            },
+            {
+              "picUrl": "/img/index_xpsf/01_01.jpg"
+            }
+          ],
+          "title": "355男式飞织运动休闲鞋",
+          "price": "199",
+          "desc": "CK制造商"
+        },
+        {
+          "link": "",
+          "picUrlList": [
+            {
+              "picUrl": "/img/index_xpsf/01.png"
+            },
+            {
+              "picUrl": "/img/index_xpsf/01_01.jpg"
+            }
+          ],
+          "title": "366男式飞织运动休闲鞋",
+          "price": "199",
+          "desc": "CK制造商",
+          "flag": "520人气款"
+        },
+        {
+          "link": "",
+          "picUrlList": [
+            {
+              "picUrl": "/img/index_xpsf/01.png"
+            },
+            {
+              "picUrl": "/img/index_xpsf/01_01.jpg"
+            }
+          ],
+          "title": "377男式飞织运动休闲鞋",
+          "price": "199",
+          "desc": "CK制造商",
+          "flag": "520人气款"
+        },
+        {
+          "link": "",
+          "picUrlList": [
+            {
+              "picUrl": "/img/index_xpsf/01.png"
+            },
+            {
+              "picUrl": "/img/index_xpsf/01_01.jpg"
+            }
+          ],
+          "title": "388男式飞织运动休闲鞋",
+          "price": "199",
+          "desc": "CK制造商"
+        }
+      ]
+    },
+    "rqtj": {
+      "hdTitle": "人气推荐",
+      "hdNav": [
+        {
+          "text" : "编辑推荐"
+        },
+        {
+          "text" : "人气周榜"
+        },
+        {
+          "text" : "热销总榜"
+        }
+      ],
+      "conList": [
+        {
+          "rqtj": [
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/01.png",
+              "title": "多功能人体工学转椅",
+              "price": "1399",
+              "flagList": [
+                {
+                  "flag": "爆品"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/02.png",
+              "title": "20寸全美铝合金登机箱",
+              "price": "699"
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/03.png",
+              "title": "多功能人体工学转椅",
+              "price": "129",
+              "flagList": [
+                {
+                  "flag": "爆品"
+                },
+                {
+                  "flag": "满赠"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/04.png",
+              "title": "多功能人体工学转椅",
+              "price": "2599",
+              "flagList": [
+                {
+                  "flag": "爆品"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/05.png",
+              "title": "多功能人体工学转椅",
+              "price": "199",
+              "flagList": [
+                {
+                  "flag": "爆品"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/06.png",
+              "title": "多功能人体工学转椅",
+              "price": "799",
+              "flagList": [
+                {
+                  "flag": "520人气款"
+                },
+                {
+                  "flag": "APP专享价"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/07.png",
+              "title": "多功能人体工学转椅",
+              "price": "59",
+              "color": "4色可选"
+            }
+          ]
+        },
+        {
+          "rqtj": [
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/01.png",
+              "title": "多功能人体工学转椅",
+              "price": "1399",
+              "flagList": [
+                {
+                  "flag": "爆品"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/02.png",
+              "title": "20寸全美铝合金登机箱",
+              "price": "699"
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/03.png",
+              "title": "多功能人体工学转椅",
+              "price": "129",
+              "flagList": [
+                {
+                  "flag": "爆品"
+                },
+                {
+                  "flag": "满赠"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/04.png",
+              "title": "多功能人体工学转椅",
+              "price": "2599",
+              "flagList": [
+                {
+                  "flag": "爆品"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/05.png",
+              "title": "多功能人体工学转椅",
+              "price": "199",
+              "flagList": [
+                {
+                  "flag": "爆品"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/06.png",
+              "title": "多功能人体工学转椅",
+              "price": "799",
+              "flagList": [
+                {
+                  "flag": "520人气款"
+                },
+                {
+                  "flag": "APP专享价"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/07.png",
+              "title": "多功能人体工学转椅",
+              "price": "59",
+              "color": "4色可选"
+            }
+          ]
+        },
+        {
+          "rqtj": [
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/01.png",
+              "title": "多功能人体工学转椅",
+              "price": "1399",
+              "flagList": [
+                {
+                  "flag": "爆品"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/02.png",
+              "title": "20寸全美铝合金登机箱",
+              "price": "699"
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/03.png",
+              "title": "多功能人体工学转椅",
+              "price": "129",
+              "flagList": [
+                {
+                  "flag": "爆品"
+                },
+                {
+                  "flag": "满赠"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/04.png",
+              "title": "多功能人体工学转椅",
+              "price": "2599",
+              "flagList": [
+                {
+                  "flag": "爆品"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/05.png",
+              "title": "多功能人体工学转椅",
+              "price": "199",
+              "flagList": [
+                {
+                  "flag": "爆品"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/06.png",
+              "title": "多功能人体工学转椅",
+              "price": "799",
+              "flagList": [
+                {
+                  "flag": "520人气款"
+                },
+                {
+                  "flag": "APP专享价"
+                }
+              ]
+            },
+            {
+              "link": "",
+              "picUrl": "/img/index_rqtj/07.png",
+              "title": "多功能人体工学转椅",
+              "price": "59",
+              "color": "4色可选"
+            }
+          ]
+        }
+      ]
+    },
+    "jj": {
+      "hdTitle": "居家",
+      "titleDesc": "回家，放松身心",
+      "hdNavList": [
+        {
+          "link": "",
+          "text": "夏凉"
+        },
+        {
+          "link": "",
+          "text": "被枕"
+        },
+        {
+          "link": "",
+          "text": "床品件套"
+        },
+        {
+          "link": "",
+          "text": "布艺软装"
+        },
+        {
+          "link": "",
+          "text": "家具"
+        },
+        {
+          "link": "",
+          "text": "灯具"
+        },
+        {
+          "link": "",
+          "text": "家饰"
+        }
+      ],
+      "bannerPicLink": "",
+      "bannerPicUrl": "/img/index_jj/01.jpg",
+      "conList": [
+        {
+          "link": "",
+          "picUrl": "/img/index_jj/02.png",
+          "title": "日式蓬软太鼓抱枕",
+          "price": "29",
+          "colorTag": "8色可选"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/index_jj/03.png",
+          "title": "日式蓬软太鼓抱枕",
+          "price": "169"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/index_jj/04.png",
+          "title": "日式蓬软太鼓抱枕",
+          "price": "119",
+          "colorTag": "黑凤梨"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/index_jj/05.png",
+          "title": "日式蓬软太鼓抱枕",
+          "price": "99",
+          "colorTag": "8色可选"
+        }
+      ]
+    },
+    "zxj": {
+      "hdTitle": "甄选家",
+      "titleDesc": "我们在寻找，对生活有态度的你",
+      "conList": [
+        {
+          "link": "",
+          "picUrl": "/img/index_zxj/01.jpg"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/index_zxj/02.jpg"
+        },
+        {
+          "link": "",
+          "picUrl": "/img/index_zxj/03.jpg"
+        }
+      ]
+    },
+    "djdzs": {
+      "hdTitle": "大家都在说",
+      "titleDesc": "生活，没有统一标准",
+      "conList": [
+        {
+          "link": "",
+          "imgUrl": "/img/index_allsay/01.jpg",
+          "user": "重****",
+          "name": "春日落花酥 158克",
+          "price": "14.9",
+          "desc": "家居服质量特好，宽松柔软，纯棉的，顺丰快递，我已经在严选多次购物，每一件物品都非常满意，第一次在评价里说这么多，真心的好，无语言表，到严选购物就知道了，严选已成为我的最爱，一定好评！孩子把衣服拿回去了，忘记拍照了，放心买吧！"
+        },
+        {
+          "link": "",
+          "imgUrl": "/img/index_allsay/02.jpg",
+          "user": "重****",
+          "name": "春日落花酥 158克",
+          "price": "13",
+          "desc": "绿豆糕一直是心头好 但是好吃的越来越少了 不是太甜就是太油 这款很满意 甜味不会太过 而且放冰箱里冰一下感觉味道更好 满口的绿豆清香 吃完继续买买买！"
+        },
+        {
+          "link": "",
+          "imgUrl": "/img/index_allsay/03.jpg",
+          "user": "重****",
+          "name": "春日落花酥 158克",
+          "price": "13",
+          "desc": "绿豆糕一直是心头好 但是好吃的越来越少了 不是太甜就是太油 这款很满意 甜味不会太过 而且放冰箱里冰一下感觉味道更好 满口的绿豆清香 吃完继续买买买！"
+        },
+        {
+          "link": "",
+          "imgUrl": "/img/index_allsay/04.jpg",
+          "user": "重****",
+          "name": "春日落花酥 158克",
+          "price": "13",
+          "desc": "绿豆糕一直是心头好 但是好吃的越来越少了 不是太甜就是太油 这款很满意 甜味不会太过 而且放冰箱里冰一下感觉味道更好 满口的绿豆清香 吃完继续买买买！"
+        },
+        {
+          "link": "",
+          "imgUrl": "/img/index_allsay/05.jpg",
+          "user": "重****",
+          "name": "春日落花酥 158克",
+          "price": "13",
+          "desc": "绿豆糕一直是心头好 但是好吃的越来越少了 不是太甜就是太油 这款很满意 甜味不会太过 而且放冰箱里冰一下感觉味道更好 满口的绿豆清香 吃完继续买买买！"
+        },
+        {
+          "link": "",
+          "imgUrl": "/img/index_allsay/06.jpg",
+          "user": "重****",
+          "name": "春日落花酥 158克",
+          "price": "13",
+          "desc": "绿豆糕一直是心头好 但是好吃的越来越少了 不是太甜就是太油 这款很满意 甜味不会太过 而且放冰箱里冰一下感觉味道更好 满口的绿豆清香 吃完继续买买买！"
+        },
+        {
+          "link": "",
+          "imgUrl": "/img/index_allsay/07.jpg",
+          "user": "重****",
+          "name": "春日落花酥 158克",
+          "price": "13",
+          "desc": "绿豆糕一直是心头好 但是好吃的越来越少了 不是太甜就是太油 这款很满意 甜味不会太过 而且放冰箱里冰一下感觉味道更好 满口的绿豆清香 吃完继续买买买！"
+        }
+      ]
+    }
+  }
+}

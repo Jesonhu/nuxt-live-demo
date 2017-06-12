@@ -1,0 +1,158 @@
+{
+  "code": 200,
+  "result": {
+    "cart": {
+      "cartGroupList": [
+        {
+          "promId": 0,
+          "promType": 0,
+          "cartItemList": [
+            {
+              "id": 0,
+              "itemId": 1086013,
+              "itemName": "2双装 皮毛一体鞋垫",
+              "status": 2,
+              "pic": "http://yanxuan.nosdn.127.net/31a231e17f9cd8441037db29bb43c410.png",
+              "skuId": 1110097,
+              "valid": true,
+              "sellVolume": 69,
+              "specList": [
+                {
+                  "specName": "尺码",
+                  "specValue": "【2双装】童款26码"
+                }
+              ],
+              "cnt": 1,
+              "totalPrice": 59,
+              "retailPrice": 59,
+              "actualPrice": 59,
+              "subtotalPrice": 59,
+              "promList": null,
+              "source": 0,
+              "checked": true,
+              "preSellStatus": 0,
+              "preSellPrice": 0,
+              "preSellVolume": 0,
+              "preSellDesc": null,
+              "limitPurchaseFlag": false,
+              "limitPurchaseCount": 0,
+              "promTag": null,
+              "preemptionStatus": 1,
+              "limitedFlag": 0
+            },
+            {
+              "id": 0,
+              "itemId": 1027004,
+              "itemName": "色织六层纱布夏凉被",
+              "status": 2,
+              "pic": "http://yanxuan.nosdn.127.net/bb712bd9821b58ae7d5064fa9803cf92.png",
+              "skuId": 1026005,
+              "valid": true,
+              "sellVolume": 195,
+              "specList": [
+                {
+                  "specName": "颜色",
+                  "specValue": "粉白格"
+                }
+              ],
+              "cnt": 1,
+              "totalPrice": 249,
+              "retailPrice": 249,
+              "actualPrice": 249,
+              "subtotalPrice": 249,
+              "promList": null,
+              "source": 0,
+              "checked": true,
+              "preSellStatus": 0,
+              "preSellPrice": 0,
+              "preSellVolume": 0,
+              "preSellDesc": null,
+              "limitPurchaseFlag": false,
+              "limitPurchaseCount": 0,
+              "promTag": null,
+              "preemptionStatus": 1,
+              "limitedFlag": 0
+            }
+          ],
+          "promTip": null,
+          "promSatisfy": false,
+          "promNotSatisfyType": 0,
+          "giftStepList": null,
+          "allowCount": 0,
+          "suitName": null,
+          "suitStatus": 0,
+          "suitCount": 0,
+          "suitMaxCount": 0,
+          "singleMaxCount": 0,
+          "suitRetailPrice": null,
+          "suitTotalPrice": null,
+          "suitChecked": false,
+          "promotionPrice": null
+        }
+      ],
+      "totalPrice": 308,
+      "promotionPrice": 0,
+      "actualPrice": 308,
+      "tip": null,
+      "priceRangeId": 0
+    },
+    "sameList": [
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "日式色织水洗棉格纹四件套 新款",
+        "price": 299
+      },
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "2日式色织水洗",
+        "price": 299
+      },
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "3日式色织水洗",
+        "price": 299
+      },
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "4日式色织水洗",
+        "price": 299
+      },
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "21日式色织水洗棉格纹四件套 新款",
+        "price": 299
+      },
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "22日式色织水洗",
+        "price": 299
+      },
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "23日式色织水洗",
+        "price": 299
+      },
+      {
+        "link": "",
+        "color": "4色可选",
+        "picUrl": "/img/detail/same01.png",
+        "name": "24日式色织水洗",
+        "price": 299
+      }
+    ]
+  }
+}
