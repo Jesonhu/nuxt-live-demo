@@ -351,6 +351,16 @@ a{
   box-shadow: 0 0 3px 0 rgba(0,0,0,.2);
   background-color:#fff;
 }
+.hd-tabwrap .shop-cart-wrap:before{
+  content:'';
+  position: absolute;
+  top:0px;
+  right:0px;
+  display:block;
+  width:66px;
+  height:47px;
+  background-color:transparent;
+}
 .shop-cart-wrap .sub-wrap .cart-list{
   height:259px;
   overflow:auto;
@@ -419,6 +429,7 @@ a{
   position:absolute;
   top:43px;
   left:29px;
+  display: none;
   width:8px;
   height:8px;
   border:1px solid rgb(180,160,120);
@@ -426,6 +437,9 @@ a{
   border-bottom:0;
   transform:rotate(45deg);
   background-color:#fff;
+}
+.shop-cart-wrap .arrow.is-active{
+  display:block;
 }
 .shop-cart-wrap .cart-bottom{
   position:absolute;
@@ -924,8 +938,9 @@ a{
     height:44px;
     margin-top: 0;
     color:#fff;
-    background-color:#999;
     border-color:#999;
+    background-color:#999;
+    cursor: pointer;
 }
 .fixedtool .link:last-child .arrow-up{
     display: block;
